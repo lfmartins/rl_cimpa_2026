@@ -4,8 +4,8 @@ Materials for Reinforcement Learning Workshop - CIMPA - Recife 2026
 - Day 1
     - [Download Lesson for Day 1](presentations/day01.pdf)
     - [Download Activities for Day 1](practical_sessions/activites_day1.pdf)
-    - [Open Day 1 Activities in Colab](https://colab.research.google.com/github/lfmartins/rl_cimpa_2026/blob/main/practical_sessions/activities_day1.ipynb)
 - Day 2
     - [Download Lesson for Day 2](presentations/day02.pdf)     
+    - [Open Day 2 Computational Activities in Colab](https://colab.research.google.com/github/lfmartins/rl_cimpa_2026/blob/main/practical_sessions/activities_day1.ipynb)
 
 
