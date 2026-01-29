@@ -11,5 +11,6 @@ Materials for Reinforcement Learning Workshop - CIMPA - Recife 2026
 - Day 3
     - [Open Lesson for Day 3](presentations/day03.pdf)
     - [Open Inventory Model Notebook in Colab](https://colab.research.google.com/github/lfmartins/rl_cimpa_2026/blob/main/practical_sessions/inventory_system.ipynb)
-
+- Day 4
+    - [Download lesson for Day 3](presentations/day04.pdf)
 
